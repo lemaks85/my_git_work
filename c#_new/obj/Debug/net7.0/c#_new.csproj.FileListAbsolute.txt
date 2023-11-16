@@ -1,0 +1,14 @@
+C:\Users\maxel\OneDrive\Рабочий стол\work_geekbrains\c#_new\bin\Debug\net7.0\c#_new.exe
+C:\Users\maxel\OneDrive\Рабочий стол\work_geekbrains\c#_new\bin\Debug\net7.0\c#_new.deps.json
+C:\Users\maxel\OneDrive\Рабочий стол\work_geekbrains\c#_new\bin\Debug\net7.0\c#_new.runtimeconfig.json
+C:\Users\maxel\OneDrive\Рабочий стол\work_geekbrains\c#_new\bin\Debug\net7.0\c#_new.dll
+C:\Users\maxel\OneDrive\Рабочий стол\work_geekbrains\c#_new\bin\Debug\net7.0\c#_new.pdb
+C:\Users\maxel\OneDrive\Рабочий стол\work_geekbrains\c#_new\obj\Debug\net7.0\c#_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxel\OneDrive\Рабочий стол\work_geekbrains\c#_new\obj\Debug\net7.0\c#_new.AssemblyInfoInputs.cache
+C:\Users\maxel\OneDrive\Рабочий стол\work_geekbrains\c#_new\obj\Debug\net7.0\c#_new.AssemblyInfo.cs
+C:\Users\maxel\OneDrive\Рабочий стол\work_geekbrains\c#_new\obj\Debug\net7.0\c#_new.csproj.CoreCompileInputs.cache
+C:\Users\maxel\OneDrive\Рабочий стол\work_geekbrains\c#_new\obj\Debug\net7.0\c#_new.dll
+C:\Users\maxel\OneDrive\Рабочий стол\work_geekbrains\c#_new\obj\Debug\net7.0\refint\c#_new.dll
+C:\Users\maxel\OneDrive\Рабочий стол\work_geekbrains\c#_new\obj\Debug\net7.0\c#_new.pdb
+C:\Users\maxel\OneDrive\Рабочий стол\work_geekbrains\c#_new\obj\Debug\net7.0\c#_new.genruntimeconfig.cache
+C:\Users\maxel\OneDrive\Рабочий стол\work_geekbrains\c#_new\obj\Debug\net7.0\ref\c#_new.dll
