@@ -1,5 +1,4 @@
-﻿Console.Write("Last name");
-string username = Console.ReadLine();
-Console.Write("Hello, ");
-Console.WriteLine(username);
-
+﻿int numberA = 3;
+int numberB = 5;
+int result = numberA + numberB;
+Console.WriteLine(result);
